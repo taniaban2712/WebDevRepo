@@ -1,0 +1,30 @@
+#idprf{
+    color:blueviolet;
+}
+p{
+    color:rgb(10, 49, 36);
+}
+.subt:hover{
+    color:red;
+}
+li:first-child{
+    color:blueviolet;
+}
+li:last-child{
+    color:brown;
+}
+li:nth-child(3){
+    color:green;
+}
+li:onlychild{
+    color:palevioletred;
+}
+td:nth-child(2){
+    color:orangered;
+}
+/*#google-link:link{
+    color:blue;
+}
+#google-link:visited{
+    color:purple;
+}*/
